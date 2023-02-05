@@ -1,0 +1,25 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+const blogEntries = await getCollection("blog");
+---
+
+<Layout title="Welcome to Astro.">
+  <main>
+    <h1 class="text-5xl">Hello World!</h1>
+    <ul>
+      {
+        blogEntries.map((blogPostEntry) => (
+          <li>
+            <a href={`/posts/${blogPostEntry.slug}`}>
+              {blogPostEntry.data.title}
+            </a>
+            <time datetime={blogPostEntry.data.pubDate.toISOString()}>
+              {blogPostEntry.data.pubDate.toLocaleDateString()}
+            </time>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+</Layout>

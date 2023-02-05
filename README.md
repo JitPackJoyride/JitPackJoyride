@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**JitPackJoyride/JitPackJoyride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer that loves to build amazing products. I'm currently working at [Catapult](https://catapult.xyz) as a Founding Full Stack Engineer.
 
-Here are some ideas to get you started:
+## 📝 My Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository contains the source code for my blog. You can find the blog at [jitpackjoyride.com](https://jitpackjoyride.com/).
+
+## Projects
+
+For the complete list of projects I've worked on, check out my [portfolio](https://ajitkrishna.me/).
+
+## 📫 How to reach me
+
+Check out my [website](https://ajitkrishna.me), you can send me an email from there.
+
+### Social Media
+
+- [Twitter](https://twitter.com/jitpackjoyride)
+- [LinkedIn](https://www.linkedin.com/in/ajitkrishnanr/)
+- [GitHub](https://github.com/JitPackJoyride)

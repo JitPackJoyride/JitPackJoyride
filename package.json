@@ -1,0 +1,35 @@
+{
+  "name": "@example/basics",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev --host",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^0.16.0",
+    "@astrojs/prefetch": "^0.1.2",
+    "@astrojs/rss": "^2.1.0",
+    "@astrojs/sitemap": "^1.0.1",
+    "@astrojs/svelte": "^2.0.1",
+    "@astrojs/tailwind": "^3.0.1",
+    "astro": "^2.0.6",
+    "astro-robots-txt": "^0.3.11",
+    "mdast-util-to-string": "^3.1.1",
+    "reading-time": "^1.5.0",
+    "sanitize-html": "^2.9.0",
+    "svelte": "^3.55.1",
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.30.0",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/sanitize-html": "^2.8.0"
+  }
+}
