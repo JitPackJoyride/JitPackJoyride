@@ -9,7 +9,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "test:e2e": "playwright test"
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "test:e2e": "playwright test",
+    "coverage:e2e": "playwright show-report"
   },
   "dependencies": {
     "@astrojs/mdx": "^0.16.0",
@@ -30,6 +33,7 @@
     "@playwright/test": "^1.30.0",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.9",
-    "@types/sanitize-html": "^2.8.0"
+    "@types/sanitize-html": "^2.8.0",
+    "vitest": "^0.28.4"
   }
 }
