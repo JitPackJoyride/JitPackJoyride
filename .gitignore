@@ -23,6 +23,8 @@ pnpm-debug.log*
 # editor-specific files
 .idea/
 .vscode/
+
+# playwright
 /test-results/
 /playwright-report/
 /playwright/.cache/
