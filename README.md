@@ -2,11 +2,11 @@
 
 I'm a software engineer that loves to build amazing products. I'm currently working at [Catapult](https://catapult.xyz) as a Founding Full Stack Engineer.
 
-## 📝 My Blog
+## 📝 Blog
 
 This repository contains the source code for my blog. You can find the blog at [jitpackjoyride.com](https://jitpackjoyride.com/).
 
-## Projects
+## 🚀 Projects
 
 For the complete list of projects I've worked on, check out my [portfolio](https://ajitkrishna.me/).
 
