@@ -14,7 +14,7 @@ export async function get(context) {
     // See "Generating items" section for examples using content collections and glob imports
     items: blog.map((post) => ({
       ...post.data,
-      link: `/blog/${post.slug}`,
+      link: `/posts/${post.slug}`,
       // Note: this will not process components or JSX expressions in MDX files.
       content: sanitizeHtml(post.render()),
     })),
