@@ -4,7 +4,7 @@ I'm a software engineer that loves to build amazing products. I'm currently work
 
 ## 📝 Blog
 
-This repository contains the source code for my blog. You can find the blog at [jitpackjoyride.com](https://jitpackjoyride.com/).
+I blog about software, technology and life at [jitpackjoyride.com](https://jitpackjoyride.com/).
 
 ## 🚀 Projects
 
