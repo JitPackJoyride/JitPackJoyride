@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer that loves to build amazing products. I'm currently working at [Catapult](https://catapult.xyz) as a Founding Full Stack Engineer.
+I'm a software engineer that loves to build amazing products. I'm currently working at [Co:Helm](https://co-helm.com) as a Product Engineer.
 
 ## 📝 Blog
 
