@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Product Engineer at [Anterior](https://anterior.com).
+I'm a Member of Technical Staff at [Anterior](https://anterior.com).
 
 I particularly care about "techne" when building software, one of Aristotle's 5 virtues of intellect:
 
@@ -10,7 +10,7 @@ Hence, I value craftmanship with an understanding of how the user will be impact
 
 ## 📫 How to reach me
 
-Send me an email from [jitpackjoyride.com/contact](https://jitpackjoyride.com/contact)
+Send me an email at [ajitkrishna99@gmail.com](mailto:ajitkrishna99@gmail.com)
 
 ### Social Media
 
