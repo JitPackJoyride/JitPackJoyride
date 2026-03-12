@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Member of Technical Staff at [Anterior](https://anterior.com).
+I'm a Senior Software Engineer at [Clarion](https://clarionhealth.com).
 
 I particularly care about "techne" when building software, one of Aristotle's 5 virtues of intellect:
 
