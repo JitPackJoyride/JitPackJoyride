@@ -1,6 +1,6 @@
-# Hi there 👋
+I'm starting something new...
 
-I'm a Senior Software Engineer at [Clarion](https://clarionhealth.com).
+## Philosophy
 
 I particularly care about "techne" when building software, one of Aristotle's 5 virtues of intellect:
 
@@ -10,7 +10,7 @@ Hence, I value craftmanship with an understanding of how the user will be impact
 
 ## 📫 How to reach me
 
-Send me an email at [ajitkrishna99@gmail.com](mailto:ajitkrishna99@gmail.com)
+Send me an email at [ajit@sonder.fyi](mailto:ajit@sonder.fyi)
 
 ### Social Media
 
